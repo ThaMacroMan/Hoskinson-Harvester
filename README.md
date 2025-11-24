@@ -145,5 +145,4 @@ If videos aren't loading, the channel ID might need updating:
 
 ## License
 
-MIT
-# Hoskinson-Harvester
+This project is licensed under the MIT License — see the LICENSE file for details.
